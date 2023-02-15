@@ -1,0 +1,1 @@
+Create a functional and class components  that returns a JSX element which uses the Date object to get the current time, and displays the hours, minutes, and seconds.
